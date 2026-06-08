@@ -48,3 +48,9 @@ The file metadata/figure_index.csv provides a searchable catalog of all figures,
 If you use this material, please cite the associated book chapter and this repository.
 
 A DOI will be provided after repository archiving through Zenodo.
+
+## License
+
+Figures, tables, and metadata in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+If code is added to this repository in the future, it should be licensed separately under an appropriate open-source software license, such as MIT or BSD-3-Clause.
