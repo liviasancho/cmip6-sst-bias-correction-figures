@@ -6,6 +6,7 @@ authors:
   - family-names: "Sancho"
     given-names: "Lívia"
 repository-code: "https://github.com/liviasancho/cmip6-sst-bias-correction-figures"
+doi: "10.5281/zenodo.20617602"
 abstract: "Supplementary figures and metadata associated with a book chapter on sea surface temperature bias correction in CMIP6 models."
 keywords:
   - CMIP6
