@@ -1,5 +1,7 @@
 # CMIP6 SST Bias Correction Figures
 
+[![DOI](https://zenodo.org/badge/1138476204.svg)](https://doi.org/10.5281/zenodo.20617602)
+
 This repository provides supplementary figures and metadata associated with the book chapter on sea surface temperature bias correction in CMIP6 models.
 
 The material includes diagnostic figures, performance summaries, and visual comparisons between original CMIP6 simulations, bias-corrected outputs, and the NOAA OISST V2 observational dataset.
@@ -45,9 +47,11 @@ The file metadata/figure_index.csv provides a searchable catalog of all figures,
 
 ## Citation
 
-If you use this material, please cite the associated book chapter and this repository.
+## Citation
 
-A DOI will be provided after repository archiving through Zenodo.
+If you use this repository, please cite the archived version:
+
+Sancho, Lívia. 2026. _CMIP6 SST Bias Correction Figures_. Zenodo. https://doi.org/10.5281/zenodo.20617602
 
 ## License
 
