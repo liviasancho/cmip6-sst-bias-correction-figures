@@ -47,8 +47,6 @@ The file metadata/figure_index.csv provides a searchable catalog of all figures,
 
 ## Citation
 
-## Citation
-
 If you use this repository, please cite the archived version:
 
 Sancho, Lívia; da Fonseca Aguiar, Louise; Galves, Vitor Luiz Victalino; Coutinho, Priscila Esposte; Guida, Aimée; Cataldi, Marcio. 2026. _CMIP6 SST Bias Correction Figures_. Zenodo. https://doi.org/10.5281/zenodo.20617602
