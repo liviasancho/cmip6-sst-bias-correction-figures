@@ -2,6 +2,7 @@ cff-version: 1.2.0
 title: "CMIP6 SST Bias Correction Figures"
 message: "If you use this repository, please cite the associated book chapter and this repository."
 type: dataset
+
 authors:
   - family-names: "Sancho"
     given-names: "Lívia"
@@ -21,9 +22,12 @@ authors:
   - family-names: "Cataldi"
     given-names: "Marcio"
     orcid: "https://orcid.org/0000-0001-9769-0105"
+
 repository-code: "https://github.com/liviasancho/cmip6-sst-bias-correction-figures"
 doi: "10.5281/zenodo.20617602"
-abstract: "Supplementary figures and metadata associated with a book chapter on sea surface temperature bias correction in CMIP6 models."
+
+abstract: "Supplementary figures, metadata, and scripts associated with a book chapter on sea surface temperature bias correction in CMIP6 models."
+
 keywords:
   - CMIP6
   - sea surface temperature
@@ -32,4 +36,6 @@ keywords:
   - NOAA OISST
   - XGBoost
   - quantile mapping
+  - linear regression
+
 license: CC-BY-4.0
