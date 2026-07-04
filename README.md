@@ -73,7 +73,7 @@ python scripts/bias_removal.py
 
 If you use this repository, please cite the archived version:
 
-Sancho, Lívia; da Fonseca Aguiar, Louise; Galves, Vitor Luiz Victalino; Coutinho, Priscila Esposte; Guida, Aimée; Cataldi, Marcio. 2026. _CMIP6 SST Bias Correction: Supplementary Figures, Metadata, and Scripts_. Zenodo. https://doi.org/10.5281/zenodo.20617602
+Sancho, Lívia; da Fonseca Aguiar, Louise; Galves, Vitor Luiz Victalino; Coutinho, Priscila Esposte; Guida, Aimée; Cataldi, Marcio. 2026. _CMIP6 SST Bias Correction: Supplementary Figures, Metadata, and Scripts_. Zenodo. https://doi.org/10.5281/zenodo.20617603
 
 ## License
 
