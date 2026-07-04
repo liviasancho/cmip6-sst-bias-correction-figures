@@ -52,6 +52,14 @@ The repository includes two main scripts:
 - `scripts/bias_diagnostics.py`: performs the SST bias diagnostic analysis and generates diagnostic figures and tables.
 - `scripts/bias_removal.py`: applies the bias correction methods, evaluates performance metrics, saves corrected SST time series, and generates comparison figures.
 
+## Environment
+
+The recommended way to reproduce the Python environment is using Conda:
+
+```bash
+conda env create -f environment.yml
+conda activate cmip6-bias-removal
+
 ## How to use this repository
 
 The file `metadata/figure_index.csv` provides a searchable catalog of the figures, including model, region, experiment, method, figure type, period, and short description.
