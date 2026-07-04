@@ -1,0 +1,20 @@
+name: cmip6-bias-removal
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - shapely
+  - rioxarray
+  - seaborn
+  - cftime
+  - dask
+  - statsmodels
+  - numpy
+  - geopandas
+  - openpyxl
+  - xarray
+  - cartopy
+  - scipy
+  - matplotlib
+  - netcdf4
+  - ipykernel
