@@ -1,6 +1,6 @@
 # CMIP6 SST Bias Correction: Supplementary Figures, Metadata, and Scripts
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20617602.svg)](https://doi.org/10.5281/zenodo.20617602)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20617603.svg)](https://doi.org/10.5281/zenodo.20617603)
 
 This repository provides supplementary figures, metadata, selected input data, corrected SST time series, and Python scripts associated with the book chapter on sea surface temperature bias correction in CMIP6 models.
 
