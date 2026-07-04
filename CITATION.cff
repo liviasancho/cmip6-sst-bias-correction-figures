@@ -24,7 +24,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-9769-0105"
 
 repository-code: "https://github.com/liviasancho/cmip6-sst-bias-correction-figures"
-doi: "10.5281/zenodo.20617602"
+doi: "10.5281/zenodo.20617603"
 
 abstract: "Supplementary figures, metadata, and scripts associated with a book chapter on sea surface temperature bias correction in CMIP6 models."
 
