@@ -59,12 +59,15 @@ The recommended way to reproduce the Python environment is using Conda:
 ```bash
 conda env create -f environment.yml
 conda activate cmip6-bias-removal
+```
 
 ## How to use this repository
 
 The file `metadata/figure_index.csv` provides a searchable catalog of the figures, including model, region, experiment, method, figure type, period, and short description.
 
 To run the scripts, users should check the expected input files in `input_data/` and adjust local paths if necessary.
+python scripts/bias_diagnostics.py
+python scripts/bias_removal.py
 
 ## Citation
 
