@@ -1,10 +1,10 @@
 # CMIP6 SST Bias Correction: Supplementary Figures, Metadata, and Scripts
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20617603.svg)](https://doi.org/10.5281/zenodo.20617603)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20617602.svg)](https://doi.org/10.5281/zenodo.20617602)
 
 This repository provides supplementary figures, metadata, selected input data, corrected SST time series, and Python scripts associated with the book chapter on sea surface temperature bias correction in CMIP6 models.
 
-The material includes diagnostic figures, performance summaries, visual comparisons between original CMIP6 simulations, bias-corrected outputs, and the NOAA OISST V2 observational dataset, as well as scripts used for bias diagnostics and bias removal.
+The material includes diagnostic figures, performance summaries, and visual comparisons between original CMIP6 simulations, bias-corrected outputs, and the NOAA OISST V2 observational dataset, along with scripts used for bias diagnostics and bias removal.
 
 ## Scope
 
@@ -73,7 +73,19 @@ python scripts/bias_removal.py
 
 If you use this repository, please cite the archived version:
 
-Sancho, Lívia; da Fonseca Aguiar, Louise; Galves, Vitor Luiz Victalino; Coutinho, Priscila Esposte; Guida, Aimée; Cataldi, Marcio. 2026. _CMIP6 SST Bias Correction: Supplementary Figures, Metadata, and Scripts_. Zenodo. https://doi.org/10.5281/zenodo.20617603
+Sancho, Lívia; da Fonseca Aguiar, Louise; Galves, Vitor Luiz Victalino; 
+Coutinho, Priscila Esposte; Guida, Aimée; Cataldi, Marcio. 2026. _CMIP6 SST Bias 
+Correction: Supplementary Figures, Metadata, and Scripts_. Zenodo. 
+https://doi.org/10.5281/zenodo.20617602
+
+For reproducibility of a specific version, please cite
+the corresponding version DOI.
+
+**Version v1.1.1:**
+https://doi.org/10.5281/zenodo.20617603
+
+Citation metadata are available in
+[CITATION.cff](CITATION.cff).
 
 ## License
 
